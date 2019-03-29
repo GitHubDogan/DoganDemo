@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label>Bitte fülle unsere Umfrage aus:</label>
+        <name>FillSurvey</name>
+    </customLabels>
+    <customLabels>
+        <label>Change this text</label>
+        <name>SurveySubject</name>
+    </customLabels>
+    <customLabels>
+        <label>https://n26.com/survey/</label>
+        <name>SurveyURL</name>
+    </customLabels>
+    <customLabels>
+        <label>Hey</label>
+        <name>Title</name>
+    </customLabels>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewNote --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewTask --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SendEmail --></label>
+        <name>SendEmail</name>
+    </quickActions>
+</Translations>

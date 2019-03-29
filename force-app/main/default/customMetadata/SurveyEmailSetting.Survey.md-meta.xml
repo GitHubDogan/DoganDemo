@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Survey</label>
+    <protected>false</protected>
+    <values>
+        <field>Query__c</field>
+        <value xsi:type="xsd:string">Select Id from Contact where Survey_Date__c&lt;=Today and Email!=null order by Survey_Date__c asc</value>
+    </values>
+    <values>
+        <field>SaveAsActivity__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>SenderEmailAddress__c</field>
+        <value xsi:type="xsd:string">dogan.turkcan+n26survey@gmail.com</value>
+    </values>
+    <values>
+        <field>SurveyTemplateAPIName__c</field>
+        <value xsi:type="xsd:string">Survey_Email_Template</value>
+    </values>
+</CustomMetadata>

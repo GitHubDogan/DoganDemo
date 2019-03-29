@@ -1,0 +1,63 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Pricebook2",
+                "referenceId": "Pricebook2Ref1"
+            },
+            "Name": "FR",
+            "CurrencyIsoCode": "EUR",
+            "IsActive": true,
+            "Country__c": "FR"
+        },
+        {
+            "attributes": {
+                "type": "Pricebook2",
+                "referenceId": "Pricebook2Ref2"
+            },
+            "Name": "IT",
+            "CurrencyIsoCode": "EUR",
+            "IsActive": true,
+            "Country__c": "IT"
+        },
+        {
+            "attributes": {
+                "type": "Pricebook2",
+                "referenceId": "Pricebook2Ref3"
+            },
+            "Name": "DE",
+            "CurrencyIsoCode": "EUR",
+            "IsActive": true,
+            "Country__c": "DE"
+        },
+        {
+            "attributes": {
+                "type": "Pricebook2",
+                "referenceId": "Pricebook2Ref4"
+            },
+            "Name": "ES",
+            "CurrencyIsoCode": "EUR",
+            "IsActive": true,
+            "Country__c": "ES"
+        },
+        {
+            "attributes": {
+                "type": "Pricebook2",
+                "referenceId": "Pricebook2Ref5"
+            },
+            "Name": "Standard Price Book",
+            "CurrencyIsoCode": "EUR",
+            "IsActive": true
+        },
+        {
+            "attributes": {
+                "type": "Pricebook2",
+                "referenceId": "Pricebook2Ref6"
+            },
+            "Name": "UK",
+            "CurrencyIsoCode": "EUR",
+            "IsActive": true,
+            "Country__c": "UK"
+        }
+    ]
+}
