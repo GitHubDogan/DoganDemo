@@ -1,9 +1,9 @@
 {
   "orgName": "N26Demo Company",
  "edition": "Developer",
-  "settings": {
-    "orgPreferenceSettings": {
-      "s1EncryptedStoragePref2": false
-    }
+ "features": ["MultiCurrency"],
+ "orgPreferences": {
+      "enabled": ["Translation"]    
   }
+  
 }

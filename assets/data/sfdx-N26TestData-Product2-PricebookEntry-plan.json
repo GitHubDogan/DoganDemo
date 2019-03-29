@@ -1,0 +1,26 @@
+[
+    {
+        "sobject": "Pricebook2",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "sfdx-N26TestData-Pricebook2s.json"
+        ]
+    },
+    {
+        "sobject": "Product2",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "sfdx-N26TestData-Product2s.json"
+        ]
+    },
+    {
+        "sobject": "PricebookEntry",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "sfdx-N26TestData-PricebookEntrys.json"
+        ]
+    }
+]

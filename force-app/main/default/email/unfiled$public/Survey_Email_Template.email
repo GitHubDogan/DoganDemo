@@ -1,0 +1,10 @@
+<messaging:emailTemplate subject="{!$Label.SurveySubject}" recipientType="Contact" language="{!IF(recipient.Language__c!= null, recipient.Language__c, 'en' )}">
+<messaging:htmlEmailBody >
+<html><head>
+<title></title>
+<p>{!$Label.Title+' '+recipient.FirstName+','}</p>
+<p>{!$Label.FillSurvey+' '+$Label.SurveyURL+recipient.Id}</p>
+</head>
+</html>
+</messaging:htmlEmailBody>
+</messaging:emailTemplate>

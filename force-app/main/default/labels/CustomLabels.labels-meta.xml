@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>FillSurvey</fullName>
+        <categories>Body;SurveyTemplate</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>FillSurvey</shortDescription>
+        <value>Please fill out our survey:</value>
+    </labels>
+    <labels>
+        <fullName>SurveySubject</fullName>
+        <categories>Subject;SurveyTemplate</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>SurveySubject</shortDescription>
+        <value>Change this text</value>
+    </labels>
+    <labels>
+        <fullName>SurveyURL</fullName>
+        <categories>URL;SurveyTemplate</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>SurveyURL</shortDescription>
+        <value>https://n26.com/survey/</value>
+    </labels>
+    <labels>
+        <fullName>Title</fullName>
+        <categories>Title;SurveyTemplate</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title</shortDescription>
+        <value>Hey</value>
+    </labels>
+</CustomLabels>

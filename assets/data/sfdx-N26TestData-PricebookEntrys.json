@@ -1,0 +1,837 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef1"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref3",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 6,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-BLACK",
+            "Product2Id": "@Product2Ref4"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef2"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref1",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 6,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-BLACK",
+            "Product2Id": "@Product2Ref4"         
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef3"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref6",
+            "CurrencyIsoCode": "GBP",
+            "UnitPrice": 6,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-BLACK",
+            "Product2Id": "@Product2Ref4"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef4"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref2",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 6,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-BLACK",
+            "Product2Id": "@Product2Ref4"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef5"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref4",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 6,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-BLACK",
+            "Product2Id": "@Product2Ref4"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef6"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref5",
+            "CurrencyIsoCode": "GBP",
+            "UnitPrice": 6,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-BLACK",
+            "Product2Id": "@Product2Ref4"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef7"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref5",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 6,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-BLACK",
+            "Product2Id": "@Product2Ref4"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef8"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref3",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "ATM-FEE-BLACK",
+            "Product2Id": "@Product2Ref5"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef9"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref1",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "ATM-FEE-BLACK",
+            "Product2Id": "@Product2Ref5"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef10"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref4",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "ATM-FEE-BLACK",
+            "Product2Id": "@Product2Ref5"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef11"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref2",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "ATM-FEE-BLACK",
+            "Product2Id": "@Product2Ref5"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef12"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref6",
+            "CurrencyIsoCode": "GBP",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "ATM-FEE-BLACK",
+            "Product2Id": "@Product2Ref5"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef13"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref5",
+            "CurrencyIsoCode": "GBP",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "ATM-FEE-BLACK",
+            "Product2Id": "@Product2Ref5"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef14"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref5",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "ATM-FEE-BLACK",
+            "Product2Id": "@Product2Ref5"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef15"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref2",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 9.9,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-BLACK",
+            "Product2Id": "@Product2Ref6"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef16"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref5",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 9.9,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-BLACK",
+            "Product2Id": "@Product2Ref6"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef17"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref3",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 9.9,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-BLACK",
+            "Product2Id": "@Product2Ref6"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef18"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref1",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 9.9,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-BLACK",
+            "Product2Id": "@Product2Ref6"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef19"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref4",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 9.9,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-BLACK",
+            "Product2Id": "@Product2Ref6"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef20"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref5",
+            "CurrencyIsoCode": "GBP",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "ATM-FEE-METAL",
+            "Product2Id": "@Product2Ref7"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef21"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref3",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "ATM-FEE-METAL",
+            "Product2Id": "@Product2Ref7"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef22"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref1",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "ATM-FEE-METAL",
+            "Product2Id": "@Product2Ref7"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef23"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref4",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "ATM-FEE-METAL",
+            "Product2Id": "@Product2Ref7"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef24"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref2",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "ATM-FEE-METAL",
+            "Product2Id": "@Product2Ref7"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef25"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref5",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "ATM-FEE-METAL",
+            "Product2Id": "@Product2Ref7"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef26"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref6",
+            "CurrencyIsoCode": "GBP",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "ATM-FEE-METAL",
+            "Product2Id": "@Product2Ref7"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef27"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref4",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "List_Price_Rate__c": 1.7,
+            "ProductCode": "ATM-FEE-STANDARD",
+            "Product2Id": "@Product2Ref8"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef28"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref2",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "List_Price_Rate__c": 1.7,
+            "ProductCode": "ATM-FEE-STANDARD",
+            "Product2Id": "@Product2Ref8"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef29"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref6",
+            "CurrencyIsoCode": "GBP",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "List_Price_Rate__c": 1.7,
+            "ProductCode": "ATM-FEE-STANDARD",
+            "Product2Id": "@Product2Ref8"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef30"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref1",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "List_Price_Rate__c": 1.7,
+            "ProductCode": "ATM-FEE-STANDARD",
+            "Product2Id": "@Product2Ref8"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef31"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref5",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "List_Price_Rate__c": 1.7,
+            "ProductCode": "ATM-FEE-STANDARD",
+            "Product2Id": "@Product2Ref8"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef32"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref5",
+            "CurrencyIsoCode": "GBP",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "List_Price_Rate__c": 1.7,
+            "ProductCode": "ATM-FEE-STANDARD",
+            "Product2Id": "@Product2Ref8"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef33"
+            },
+            "Name": "ATM Fee",
+            "PriceBook2Id": "Pricebook2Ref3",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "List_Price_Rate__c": 1.7,
+            "ProductCode": "ATM-FEE-STANDARD",
+            "Product2Id": "@Product2Ref8"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef34"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref3",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 45,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-METAL",
+            "Product2Id": "@Product2Ref9"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef35"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref1",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 45,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-METAL",
+            "Product2Id": "@Product2Ref9"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef36"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref4",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 45,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-METAL",
+            "Product2Id": "@Product2Ref9"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef37"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref2",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 45,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-METAL",
+            "Product2Id": "@Product2Ref9"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef38"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref6",
+            "CurrencyIsoCode": "GBP",
+            "UnitPrice": 45,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-METAL",
+            "Product2Id": "@Product2Ref9"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef39"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref5",
+            "CurrencyIsoCode": "GBP",
+            "UnitPrice": 45,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-METAL",
+            "Product2Id": "@Product2Ref9"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef40"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref5",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 45,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-METAL",
+            "Product2Id": "@Product2Ref9"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef41"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref3",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 6,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-STANDARD",
+            "Product2Id": "@Product2Ref10"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef42"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref1",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 6,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-STANDARD",
+            "Product2Id": "@Product2Ref10"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef43"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref4",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 6,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-STANDARD",
+            "Product2Id": "@Product2Ref10"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef44"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref2",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 6,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-STANDARD",
+            "Product2Id": "@Product2Ref10"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef45"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref6",
+            "CurrencyIsoCode": "GBP",
+            "UnitPrice": 6,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-STANDARD",
+            "Product2Id": "@Product2Ref10"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef46"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref5",
+            "CurrencyIsoCode": "GBP",
+            "UnitPrice": 6,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-STANDARD",
+            "Product2Id": "@Product2Ref10"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef47"
+            },
+            "Name": "Card Replacement Cost",
+            "PriceBook2Id": "Pricebook2Ref5",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 6,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "CARD-REP-COST-STANDARD",
+            "Product2Id": "@Product2Ref10"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef48"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref2",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 16.9,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-METAL",
+            "Product2Id": "@Product2Ref11"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef49"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref5",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 16.9,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-METAL",
+            "Product2Id": "@Product2Ref11"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef50"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref3",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 16.9,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-METAL",
+            "Product2Id": "@Product2Ref11"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef51"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref1",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 16.9,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-METAL",
+            "Product2Id": "@Product2Ref11"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef52"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref4",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 16.9,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-METAL",
+            "Product2Id": "@Product2Ref11"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef53"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref1",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-STANDARD",
+            "Product2Id": "@Product2Ref12"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef54"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref3",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-STANDARD",
+            "Product2Id": "@Product2Ref12"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef55"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref5",
+            "CurrencyIsoCode": "GBP",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-STANDARD",
+            "Product2Id": "@Product2Ref12"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef56"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref4",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-STANDARD",
+            "Product2Id": "@Product2Ref12"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef57"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref2",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-STANDARD",
+            "Product2Id": "@Product2Ref12"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef58"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref5",
+            "CurrencyIsoCode": "EUR",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-STANDARD",
+            "Product2Id": "@Product2Ref12"
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef59"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "PriceBook2Id": "Pricebook2Ref6",
+            "CurrencyIsoCode": "GBP",
+            "UnitPrice": 0,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "ProductCode": "SUBS-STANDARD",
+            "Product2Id": "@Product2Ref12"
+        }
+    ]
+}

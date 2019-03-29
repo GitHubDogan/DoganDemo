@@ -1,0 +1,133 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref1"
+            },
+            "Name": "Standard",
+            "ProductCode": "STANDARD",
+            "IsActive": true,
+            "Family": "Membership"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref2"
+            },
+            "Name": "Black",
+            "ProductCode": "BLACK",
+            "IsActive": true,
+            "Family": "Membership"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref3"
+            },
+            "Name": "Metal",
+            "ProductCode": "METAL",
+            "IsActive": true,
+            "Family": "Membership"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref4"
+            },
+            "Name": "Card Replacement Cost",
+            "ProductCode": "CARD-REP-COST-BLACK",
+            "IsActive": true,
+            "Parent_Product__c": "@Product2Ref2",
+            "Family": "Extra Services"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref5"
+            },
+            "Name": "ATM Fee",
+            "ProductCode": "ATM-FEE-BLACK",
+            "IsActive": true,
+            "Parent_Product__c": "@Product2Ref2",
+            "Family": "Extra Services"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref6"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "ProductCode": "SUBS-BLACK",
+            "IsActive": true,
+            "Parent_Product__c": "@Product2Ref2",
+            "Family": "Extra Services"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref7"
+            },
+            "Name": "ATM Fee",
+            "ProductCode": "ATM-FEE-METAL",
+            "IsActive": true,
+            "Parent_Product__c": "@Product2Ref3",
+            "Family": "Extra Services"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref8"
+            },
+            "Name": "ATM Fee",
+            "ProductCode": "ATM-FEE-STANDARD",
+            "IsActive": true,
+            "Parent_Product__c": "@Product2Ref1",
+            "Family": "Extra Services"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref9"
+            },
+            "Name": "Card Replacement Cost",
+            "ProductCode": "CARD-REP-COST-METAL",
+            "IsActive": true,
+            "Parent_Product__c": "@Product2Ref3",
+            "Family": "Extra Services"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref10"
+            },
+            "Name": "Card Replacement Cost",
+            "ProductCode": "CARD-REP-COST-STANDARD",
+            "IsActive": true,
+            "Parent_Product__c": "@Product2Ref1",
+            "Family": "Extra Services"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref11"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "ProductCode": "SUBS-METAL",
+            "IsActive": true,
+            "Parent_Product__c": "@Product2Ref3",
+            "Family": "Extra Services"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref12"
+            },
+            "Name": "Cost Membership (Monthly)",
+            "ProductCode": "SUBS-STANDARD",
+            "IsActive": true,
+            "Parent_Product__c": "@Product2Ref1",
+            "Family": "Extra Services"
+        }
+    ]
+}
